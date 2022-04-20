@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650453354 source:c:\users\liani\onedrive\universidade\algoritmos e programação\4 - desvio condicional (if else)\desvio condicional\lista exercicio 10 triângulo isóceles, equilátero ou escaleno\main.cpp
+	<iostream>
+	<locale.h>
+
