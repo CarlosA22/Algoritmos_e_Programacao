@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1650460635 source:c:\users\liani\onedrive\universidade\algoritmos e programação\6- laços de repetição\laços de repetição\gabarito\exer7.cpp
+	<iostream>
+
+1651068171 source:c:\users\liani\onedrive\universidade\algoritmos e programação\6- laços de repetição\laços de repetição\lista exercicio 7 média numeros pares\main.cpp
+	<iostream>
+	<locale.h>
+
