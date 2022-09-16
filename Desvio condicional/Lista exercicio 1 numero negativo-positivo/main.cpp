@@ -7,12 +7,12 @@ int main(){
     setlocale(LC_ALL, "Portuguese");
     int inteiro;
 
-    cout << "Este programa ira mostrar o número inteiro que você digitar, porém se você digitar um número negativo ele será transformado em um número positivo. " << endl;
-    cout << "Digite um número inteiro: ";
+    cout << "Este programa ira mostrar o nï¿½mero inteiro que vocï¿½ digitar, porï¿½m se vocï¿½ digitar um nï¿½mero negativo ele serï¿½ transformado em um nï¿½mero positivo. " << endl;
+    cout << "Digite um nï¿½mero inteiro: ";
     cin  >> inteiro;
 
     if (inteiro >=0) {
-        cout << "O número que você digitou é: "<<inteiro;
+        cout << "O nï¿½mero que vocï¿½ digitou ï¿½: "<<inteiro;
 
     } else {
      inteiro = inteiro * -1 ;

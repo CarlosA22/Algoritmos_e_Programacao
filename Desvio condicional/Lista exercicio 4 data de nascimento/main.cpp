@@ -6,7 +6,7 @@ using namespace std;
 int main(){
     setlocale(LC_ALL, "Portuguese");
 
-    int DND,DNM,DNA,DAD,DAM,DAA,I;
+    int DND,DNM,DNA,DAD,DAM,DAA;
 
     cout << "Digite sua data de nascimento DD/MM/AAAA: ";
     cin  >> DND >> DNM >> DNA;
@@ -14,7 +14,7 @@ int main(){
     cin  >> DAD >> DAM >> DAA;
 
 
-    if (DNM < DAM || DNM == DAM && DND < DAD){
+    if (DNM < DAM || DNM == DAM && DND <= DAD){
         cout << "Idade da pessoa: " << DAA - DNA;
     } else {
         cout << "Idade da pessoa: " << DAA - DNA -1;
