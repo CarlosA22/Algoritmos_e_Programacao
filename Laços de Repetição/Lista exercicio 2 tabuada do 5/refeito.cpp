@@ -6,11 +6,13 @@ using namespace std;
 int main(){
     setlocale(LC_ALL, "Portuguese");
 
-    int texto = 1;
+    int tb,op=1;
 
-    while (texto <= 30) {
-        cout << "N�o vou colar na prova" << endl;
-    texto = texto + 1;
+
+    while(op <= 10){
+        tb=5*op;
+        cout<<"5"<<"*"<<op<<"="<<tb<<endl;
+        op++;
     }
 
     return 0;

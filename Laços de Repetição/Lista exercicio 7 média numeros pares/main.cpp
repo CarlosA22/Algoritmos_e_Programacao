@@ -15,7 +15,7 @@ int main() {
         cin  >> num;
 
         if (num % 2 == 0 && num !=0){
-                media += num;
+                media += num; //media = media + num
                 quantCont++;
         }
 

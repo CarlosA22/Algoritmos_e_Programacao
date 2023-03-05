@@ -6,12 +6,13 @@ using namespace std;
 int main(){
     setlocale(LC_ALL, "Portuguese");
 
-    int texto = 1;
+    int num=100,soma=0;
 
-    while (texto <= 30) {
-        cout << "N�o vou colar na prova" << endl;
-    texto = texto + 1;
+    while(num <= 200){
+        soma=soma+num;
+        num++;
     }
+    cout<<soma;
 
     return 0;
 }

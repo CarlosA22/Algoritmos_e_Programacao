@@ -5,12 +5,12 @@ using namespace std;
 
 int main(){
     setlocale(LC_ALL, "Portuguese");
+    
+    int num=100;
 
-    int texto = 1;
-
-    while (texto <= 30) {
-        cout << "N�o vou colar na prova" << endl;
-    texto = texto + 1;
+    while(num >= 1){
+        cout<<num<<endl;
+        num--;
     }
 
     return 0;
