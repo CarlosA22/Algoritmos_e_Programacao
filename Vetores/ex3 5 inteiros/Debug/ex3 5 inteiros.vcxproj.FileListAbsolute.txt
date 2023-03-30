@@ -1,2 +1,0 @@
-C:\Users\carlo\OneDrive - UNIVALI\Universidade\Algoritmos e Programação\7 - Vetores\Vetores\ex3 5 inteiros\Debug\ex3 5 inteiros.exe
-C:\Users\carlo\OneDrive - UNIVALI\Universidade\Algoritmos e Programação\7 - Vetores\Vetores\refactor\ex3 5 inteiros\Debug\ex3 5 inteiros.exe
